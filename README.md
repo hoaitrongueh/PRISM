@@ -1,4 +1,4 @@
-# fuse
+# PRISM
 
 PyTorch CPU inference benchmarks.
 
